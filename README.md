@@ -2,6 +2,11 @@
 
 I'm Lynn 😘
 
+# About me
+
+I am a University of Information Technology - Vietnam National University student!
+
+Welcome to my "small cozy home" Git page :3
 
 <!--
 Here are some ideas to get you started:
