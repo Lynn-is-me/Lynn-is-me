@@ -28,7 +28,7 @@
     </div>
 </div>
 
-
+![snake animation](https://github.com/Ly-Lynn/Ly-Lynn/blob/output/github-contribution-grid-snake2.svg)
 
 
 
