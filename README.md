@@ -4,6 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73961&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Lynn+%F0%9F%98%8A" alt="Typing SVG" /></a>
     </h1>
     <div id="aboutme" style="display: flex; align-items: flex-start; gap: 15px;">
+        <img alt="GIF" align="right" src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" width="250px" height="250px" />
         <div style="flex: 1;">
             <h3 style="font-size: 28px; font-weight: bold;">About Lynn:</h3>
             <ul style="list-style-type: none; padding-left: 0;">
@@ -11,7 +12,6 @@
                 <li> 💻 I like learning about AI 😀 and wanna be an AI Engineer </li>
             </ul>
         </div>
-        <img alt="GIF" align="right" src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" width="330px" height="300px" />
     </div>
     <div>
         <div class="markdown-heading" dir="auto">
