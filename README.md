@@ -11,11 +11,7 @@
                 <li> 💻 I like learning about AI 😀 and wanna be an AI Engineer </li>
             </ul>
         </div>
-        <div style="flex: 1; display: flex; justify-content: center;">
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" data-target="animated-image.originalLink">
-                <img alt="GIF" src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" height="230" data-canonical-src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-            </a>
-        </div>
+        <img alt="GIF" align="right" src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" width="330px" height="300px" />
     </div>
     <div>
         <div class="markdown-heading" dir="auto">
@@ -50,7 +46,7 @@
         </p>
         <div class="markdown-heading" dir="auto">
             <h2 class="heading-element" dir="auto">My Contributions 📈</h2>
-            <img src="https://github.com/Ly-Lynn>/Ly-Lynn/blob/output/github-contribution-grid-snake2.svg">
+            <img src="https://github.com/Ly-Lynn/Ly-Lynn/blob/output/github-contribution-grid-snake2.svg">
         </div>
     </div>
 </div>
