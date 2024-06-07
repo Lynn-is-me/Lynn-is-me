@@ -50,4 +50,7 @@
         </p>
         <div class="markdown-heading" dir="auto">
             <h2 class="heading-element" dir="auto">My Contributions 📈</h2>
-            <img src="https://github.com/Ly-Lynn/Ly-L
+            <img src="https://github.com/Ly-Lynn>/Ly-Lynn/blob/output/github-contribution-grid-snake2.svg">
+        </div>
+    </div>
+</div>
