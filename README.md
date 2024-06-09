@@ -34,7 +34,7 @@
             </div> 
         </div>
         <div class="markdown-heading" dir="auto">
-            <h2 class="heading-element" dir="auto">⚡ GitHub Stats</h2>
+            <h2 class="heading-element" dir="auto">GitHub Stats 📊</h2>
         </div>
         <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Ly-Lynn&show_icons=true&theme=dark&hide_rank=true">
@@ -50,4 +50,4 @@
         </div>
     </div>
 </div>
-![snake animation](https://github.com/Ly-Lynn/Ly-Lynn/blob/output/github-contribution-grid-snake2.svg)
+
