@@ -11,10 +11,8 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+      - master
     
-  
-
 jobs:
   generate:
     permissions: 
@@ -23,6 +21,20 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      # Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Set up Node.js environment
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'  # specify the version of Node.js
+
+      # Install dependencies
+      - name: Install Node.js dependencies
+        run: npm install canvas
+
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3.2.0
@@ -32,7 +44,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
